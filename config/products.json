@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": "c85a14csd",
+            "titulo": "Mouse",
+            "descricao": "Mouse inalambrico",
+            "img": "/images/product1.png",
+            "preco": 25
+        },
+        {
+            "id": "512d5asd",
+            "titulo": "teclado",
+            "descricao": "Teclado inalambrico",
+            "img": "/images/product3.png",
+            "preco": 20
+        },
+        {
+            "id": "ascd15adas",
+            "titulo": "Pad",
+            "descricao": "Pad inalambrico",
+            "img": "/images/product2.png",
+            "preco": 21
+        }
+    ]
+}
